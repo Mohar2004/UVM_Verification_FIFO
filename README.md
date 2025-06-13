@@ -56,7 +56,7 @@ This project implements a synchronous FIFO (First-In-First-Out) buffer in System
 ## 📌 Status
 
 ✅ In progress — testbench under development, RTL complete.  
-🚀 Planned completion by [insert your target date here].
+🚀 Planned completion by [July, 2025].
 
 ---
 
